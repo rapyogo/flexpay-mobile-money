@@ -116,4 +116,4 @@ MIT — utilisez ce code librement dans vos projets commerciaux ou open-source.
 
 ---
 
-**Développé à partir de l'expérience production de [TIXYA](https://tixya.online) — plateforme de billetterie événementielle en RDC.**
+**Développé à partir de l'expérience production de [TIXYA](https://tixya.online) — Première plateforme de billetterie et de gestion événementielle en ligne en RDC.**
